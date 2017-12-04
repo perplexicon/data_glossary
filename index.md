@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-Link through to the [Big Data definition](https://perplexicon.github.io/data_glossary/big_data)
+Link through to the [Big Data definition](big_data.md)
 
 You can use the [editor on GitHub](https://github.com/perplexicon/data_glossary/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
