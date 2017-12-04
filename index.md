@@ -1,53 +1,24 @@
-## Data Glossary
+## Welcome!
+
+This document was created for a talk on data for the Tech Futures Lab master program. Realising that jargon in the field is both an opaque technical blockade and a shiny marketing veneeer, I figured that an honest exposure of some terms would facilitate the conversation. 
+
+Inspired by one of my favourite places to learn – down the wikipedia rabbit hole. Linear learning is dictated; fractal learning is inspired.
+
+### Contribution
+
+This is a live document and may grow with the tides. It is open source and contribution is whole-heartedly encouraged. 
+
+## Here we go...
+
+### The big ones:
 
 [Data](definitions/data.md)
 
-Big Data
+[Big Data](definitions/big_data.md)
 
-Artificial Intelligence
+[Artificial Intelligence](definitions/artificial_intelligence.md)
 
-Data Science
+[Data Science](definitions/data_science.md)
 
+### The rest:
 
-
-
-
-Link through to the [Big Data definition](docs/big_data.md)
-
-... and what about this [test file](test_file.md)
-
-You can use the [editor on GitHub](https://github.com/perplexicon/data_glossary/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/perplexicon/data_glossary/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
