@@ -50,10 +50,6 @@ Storage
 
 Sovereignty
 
-Internet
-
-Connected
-
 Cloud
 
 Data transfer
