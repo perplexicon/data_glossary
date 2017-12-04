@@ -22,74 +22,68 @@ This is a live document and may grow with the tides. It is open source and contr
 
 ### The rest:
 
-Sensors 
+[Sensors](definitions/sensors.md)
 
-IoT (internet of things)
+[IoT](definitions/iot.md) (internet of things)
 
-Smart homes
+[Smart homes](definitions/smart_homes.md)
 
-Smart cities
+[Smart cities](definitions/smart_cities.md)
 
-Open data
+[Open data](definitions/open_data.md)
 
-Storytelling
+[Storytelling](definitions/storytelling.md)
 
-Data visualisation
+[Data visualization](definitions/data_visualization.md)
 
-Data journalism
+[Data journalism](definitions/data_journalism.md)
 
-Data engineering
+[Data engineering](definitions/data_engineering.md)
 
-Data governance
+[Data governance](definitions/data_governance.md)
 
-Security
+[Security](definitions/security.md)
 
-Privacy
+[Privacy](definitions/privacy.md)
 
-Storage
+[Storage](definitions/storage.md)
 
-Sovereignty
+[Sovereignty](definitions/sovereignty.md)
 
-Cloud
+[Cloud](definitions/cloud.md)
 
-Data transfer
+[Data transfer](definitions/data_transfer.md)
 
-Web scraping
+[Web scraping](definitions/web_scraping.md)
 
-Data modelling
+[Data modelling](definitions/data_modelling.md)
 
-Analytics
+[Analytics](definitions/analytics.md)
 
-Statistics
+[Statistics](definitions/statistics.md)
 
-Linear regression
+[Linear regression](definitions/linear_regression.md)
 
-Logistic regression
+[Logistic regression](definitions/logistic_regression.md)
 
-Algorithms
+[Algorithms](definitions/algorithms.md)
 
-Machine learning
+[Machine learning](definitions/machine_learning.md)
 
-Supervised learning
+[Supervised learning](definitions/supervised_learning.md)
 
-Unsupervised learning
+[Unsupervised learning](definitions/unsupervised_learning.md)
 
-Deep learning
+[Deep learning](definitions/deep_learning.md)
 
-Data mining 
+[Data mining](definitions/data_mining.md)
 
-Text mining
+[Text mining](definitions/text_mining.md)
 
-Mining bitcoin
+[Mining bitcoin](definitions/mining_bitcoin.md)
 
-Bitcoin
+[Game theory](definitions/game_theory.md)
 
-Blockchain
+[Bioinformatics](definitions/bioinformatics.md)
 
-Game theory
-
-Quantum computing
-
-Bioinformatics
-
-Biometrics
+[Biometrics](definitions/biometrics.md)
