@@ -22,3 +22,78 @@ This is a live document and may grow with the tides. It is open source and contr
 
 ### The rest:
 
+Sensors 
+
+IoT (internet of things)
+
+Smart homes
+
+Smart cities
+
+Open data
+
+Storytelling
+
+Data visualisation
+
+Data journalism
+
+Data engineering
+
+Data governance
+
+Security
+
+Privacy
+
+Storage
+
+Sovereignty
+
+Internet
+
+Connected
+
+Cloud
+
+Data transfer
+
+Web scraping
+
+Data modelling
+
+Analytics
+
+Statistics
+
+Linear regression
+
+Logistic regression
+
+Algorithms
+
+Machine learning
+
+Supervised learning
+
+Unsupervised learning
+
+Deep learning
+
+Data mining 
+
+Text mining
+
+Mining bitcoin
+
+Bitcoin
+
+Blockchain
+
+Game theory
+
+Quantum computing
+
+Bioinformatics
+
+Biometrics
