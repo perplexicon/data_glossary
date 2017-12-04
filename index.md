@@ -1,4 +1,16 @@
-## Welcome to GitHub Pages
+## Data Glossary
+
+[Data](definitions/data.md)
+
+Big Data
+
+Artificial Intelligence
+
+Data Science
+
+
+
+
 
 Link through to the [Big Data definition](docs/big_data.md)
 
